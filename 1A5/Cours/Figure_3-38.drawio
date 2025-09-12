@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eFO0AjTclFqlvpKdfzgn-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" parent="1" vertex="1">
+          <mxGeometry x="350" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="AKFyR6e9YBxYkag5AaTv-2" value="A" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="90" width="10" height="10" as="geometry" />
         </mxCell>
@@ -46,11 +49,8 @@
             <mxPoint x="310" y="104.77" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eFO0AjTclFqlvpKdfzgn-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;negating=1;negSize=0.15;" vertex="1" parent="1">
+        <mxCell id="eFO0AjTclFqlvpKdfzgn-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;negating=1;negSize=0.15;" parent="1" vertex="1">
           <mxGeometry x="140" y="80" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eFO0AjTclFqlvpKdfzgn-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
-          <mxGeometry x="350" y="80" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
