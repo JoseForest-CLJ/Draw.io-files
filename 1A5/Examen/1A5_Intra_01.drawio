@@ -337,6 +337,9 @@
         <mxCell id="m-6yGSShtTE2XHsjWKcb-103" value="5000" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;convertToSvg=1;" parent="1" vertex="1">
           <mxGeometry x="1020.5" y="230" width="39" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="bZl-XKpnZAw_Wh-4H5vK-2" value="Temps en ns" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
