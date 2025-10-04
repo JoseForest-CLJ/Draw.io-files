@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8TD7Sc-Al0YVAq8Xacdx-15" value="$$4.7\ k\Omega$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;convertToSvg=0;" parent="1" vertex="1">
+        <mxCell id="8TD7Sc-Al0YVAq8Xacdx-15" value="$$4.7\ k\Omega$$" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;convertToSvg=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="452.5" y="140" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8TD7Sc-Al0YVAq8Xacdx-14" value="$$3.3\ k\Omega$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;convertToSvg=0;" parent="1" vertex="1">
+        <mxCell id="8TD7Sc-Al0YVAq8Xacdx-14" value="$$3.3\ k\Omega$$" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;convertToSvg=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="90" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8TD7Sc-Al0YVAq8Xacdx-13" value="$$1\ k\Omega$$" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;convertToSvg=0;html=1;" parent="1" vertex="1">
+        <mxCell id="8TD7Sc-Al0YVAq8Xacdx-13" value="$$1\ k\Omega$$" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;convertToSvg=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="90" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8TD7Sc-Al0YVAq8Xacdx-10" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;convertToSvg=1;" parent="1" source="8TD7Sc-Al0YVAq8Xacdx-1" edge="1">
