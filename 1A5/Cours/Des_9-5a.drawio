@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.7">
+  <diagram name="Page 1" id="Page-1">
+    <mxGraphModel dx="938" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-40" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;fillColor=strokeColor;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.miscellaneous.monocell_battery;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VLGmDDmFPo-ONTjlK3P4-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240.09523809523807" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="200" />
+              <mxPoint x="280" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-44" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.8;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="VLGmDDmFPo-ONTjlK3P4-41" target="VLGmDDmFPo-ONTjlK3P4-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-41" value="C" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-43" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=off;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="58" y="250" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-46" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.8;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="VLGmDDmFPo-ONTjlK3P4-43" target="VLGmDDmFPo-ONTjlK3P4-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-49" value="V&lt;sub&gt;S&lt;/sub&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-50" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;entryX=-0.017;entryY=0.665;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VLGmDDmFPo-ONTjlK3P4-41">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="112" y="210" as="sourcePoint" />
+            <mxPoint x="132" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-51" value="I" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="112" y="210" width="28" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-53" value="V&lt;sub&gt;C&lt;/sub&gt;&amp;nbsp;= 0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-54" value="t&lt;sub&gt;0&lt;/sub&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="47" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-56" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="265" as="sourcePoint" />
+            <mxPoint x="118" y="255" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="90" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-57" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;fillColor=strokeColor;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.miscellaneous.monocell_battery;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="460" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="VLGmDDmFPo-ONTjlK3P4-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560.0952380952381" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="200" />
+              <mxPoint x="600" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-60" value="C" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.capacitors.capacitor_1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-63" value="V&lt;sub&gt;S&lt;/sub&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-65" value="I = 0" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="432" y="210" width="28" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-66" value="V&lt;sub&gt;C&lt;/sub&gt;&amp;nbsp;= V&lt;sub&gt;S&lt;/sub&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-69" value="" style="html=1;shape=mxgraph.electrical.electro-mechanical.singleSwitch;aspect=fixed;elSwitchState=on;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="376" y="250" width="75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-70" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.8;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="VLGmDDmFPo-ONTjlK3P4-69" target="VLGmDDmFPo-ONTjlK3P4-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-71" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.8;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="VLGmDDmFPo-ONTjlK3P4-69" target="VLGmDDmFPo-ONTjlK3P4-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VLGmDDmFPo-ONTjlK3P4-72" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;endFill=1;startSize=6;endSize=2;strokeWidth=6;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="320" y="260" as="sourcePoint" />
+            <mxPoint x="380" y="260" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
