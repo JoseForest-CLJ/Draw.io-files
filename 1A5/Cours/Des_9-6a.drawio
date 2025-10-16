@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.7">
   <diagram name="Page 1" id="Page-1">
-    <mxGraphModel dx="1360" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="777" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X-M7ohwvojVqTbKEK9S0-23" value="&lt;div align=&quot;right&quot;&gt;V&lt;sub&gt;C&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#3399FF);convertToSvg=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="240" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X-M7ohwvojVqTbKEK9S0-33" value="&lt;div align=&quot;right&quot;&gt;I&lt;sub&gt;C&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#33FF33);convertToSvg=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="380" width="30" height="20" as="geometry" />
+        </mxCell>
         <UserObject label="" tags="Électrique Lien" id="22">
           <mxCell parent="1" vertex="1" visible="0">
             <mxGeometry as="geometry" />
@@ -11,9 +17,6 @@
         </UserObject>
         <mxCell id="X-M7ohwvojVqTbKEK9S0-22" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeColor=light-dark(#000000,#3399FF);" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="240" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="X-M7ohwvojVqTbKEK9S0-23" value="&lt;div align=&quot;right&quot;&gt;V&lt;sub&gt;C&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#3399FF);" parent="1" vertex="1">
-          <mxGeometry x="45" y="240" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X-M7ohwvojVqTbKEK9S0-24" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,9 +56,6 @@
             <mxPoint x="320" y="500" as="sourcePoint" />
             <mxPoint x="320" y="240" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="X-M7ohwvojVqTbKEK9S0-33" value="&lt;div align=&quot;right&quot;&gt;I&lt;sub&gt;C&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#33FF33);" parent="1" vertex="1">
-          <mxGeometry x="45" y="380" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X-M7ohwvojVqTbKEK9S0-34" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
