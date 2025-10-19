@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.7">
+  <diagram name="Page 1" id="Page-1">
+    <mxGraphModel dx="777" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-43" value="&lt;div align=&quot;right&quot;&gt;V&lt;sub&gt;S&lt;/sub&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;convertToSvg=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="205.18" width="23" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-44" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cdTI_DB-WvsvUJYDGXtx-45" target="cdTI_DB-WvsvUJYDGXtx-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-45" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.source;aspect=fixed;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0]];elSignalType=ac;convertToSvg=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190.18" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-46" value="G" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.resistors.resistor_2;convertToSvg=1;rotation=90;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="171" y="220" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cdTI_DB-WvsvUJYDGXtx-48" target="cdTI_DB-WvsvUJYDGXtx-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-48" value="B&lt;sub&gt;C&lt;/sub&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=left;html=1;verticalAlign=middle;shape=mxgraph.electrical.capacitors.capacitor_1;rotation=90;horizontal=0;convertToSvg=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="200" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-49" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" target="cdTI_DB-WvsvUJYDGXtx-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="221" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-50" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cdTI_DB-WvsvUJYDGXtx-51" target="cdTI_DB-WvsvUJYDGXtx-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-51" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;align=left;shadow=0;dashed=0;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="211" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-52" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="300" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-53" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="300" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-54" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.signal_sources.protective_earth;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="107.5" y="300" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-55" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cdTI_DB-WvsvUJYDGXtx-45" target="cdTI_DB-WvsvUJYDGXtx-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-56" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cdTI_DB-WvsvUJYDGXtx-48" target="cdTI_DB-WvsvUJYDGXtx-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-58" value="$$\theta$$" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="434" y="258" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-59" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="560" y="280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-60" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="400" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-61" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="560" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-62" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="261" as="sourcePoint" />
+            <mxPoint x="434" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="439" y="269" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-63" value="G" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="532" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-64" value="B&lt;sub&gt;C&lt;/sub&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-65" value="Y" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-66" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="400" y="180.24" as="sourcePoint" />
+            <mxPoint x="560" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-67" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="560" y="280.49" as="sourcePoint" />
+            <mxPoint x="560" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-68" value="" style="curved=1;endArrow=none;html=1;rounded=0;endFill=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="256" as="sourcePoint" />
+            <mxPoint x="420" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="421" y="263" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cdTI_DB-WvsvUJYDGXtx-69" value="$$90\unicode{xB0}$$" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;convertToSvg=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="238" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
