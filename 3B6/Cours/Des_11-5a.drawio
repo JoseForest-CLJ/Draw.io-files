@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="28.2.8">
+  <diagram name="Page-1" id="KrV62NsMxbxOYL2rbyKl">
+    <mxGraphModel dx="403" dy="510" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UlTAZHztDQkDToVEm9iA-11" value="+" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=14;fontColor=default;labelBackgroundColor=default;convertToSvg=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-12" value="-" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=22;fontColor=default;labelBackgroundColor=default;convertToSvg=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-10" value="I" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;convertToSvg=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="135" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;fillColor=strokeColor;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.miscellaneous.monocell_battery;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="150" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-2" value="L" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=middle;shape=mxgraph.electrical.inductors.inductor_3;convertToSvg=1;spacingBottom=-7;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="112" width="100" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-3" value="R&lt;sub&gt;E&lt;/sub&gt;" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_2;convertToSvg=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="110" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="UlTAZHztDQkDToVEm9iA-1" target="UlTAZHztDQkDToVEm9iA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-6" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UlTAZHztDQkDToVEm9iA-3" target="UlTAZHztDQkDToVEm9iA-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="120" />
+              <mxPoint x="390" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="UlTAZHztDQkDToVEm9iA-2" target="UlTAZHztDQkDToVEm9iA-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="120" />
+              <mxPoint x="520" y="280" />
+              <mxPoint x="200" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="160" as="sourcePoint" />
+            <mxPoint x="240" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.6660796600393477;endAngle=0.3313648949194008;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="410" y="90" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.6660796600393477;endAngle=0.3313648949194008;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="110" width="80" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-23" value="" style="shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.99;dx=10;notch=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;gradientColor=none;fillColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="447" y="136" width="6" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="UlTAZHztDQkDToVEm9iA-24" value="" style="shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.99;dx=10;notch=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;gradientColor=none;fillColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="447" y="87" width="6" height="6" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
