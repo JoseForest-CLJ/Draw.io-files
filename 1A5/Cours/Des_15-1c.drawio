@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0" version="29.1.0">
+  <diagram name="Page-1" id="_lfEAkF8IH03v4KN_PAX">
+    <mxGraphModel dx="1133" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p68mk5svl-TLovWLRYqp-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="5 V" vertex="1">
+          <mxGeometry height="20" width="40" x="280" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="2.4 V" vertex="1">
+          <mxGeometry height="20" width="40" x="280" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="0.4 V" vertex="1">
+          <mxGeometry height="20" width="40" x="280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="0 V" vertex="1">
+          <mxGeometry height="20" width="40" x="280" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="V&lt;sub&gt;SH&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="269" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="V&lt;sub&gt;SB&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="20" width="39" x="270" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;convertToSvg=1;" value="Sorties" vertex="1">
+          <mxGeometry height="20" width="60" x="330" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="5 V" vertex="1">
+          <mxGeometry height="20" width="40" x="120" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="2 V" vertex="1">
+          <mxGeometry height="20" width="40" x="120" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="0.8 V" vertex="1">
+          <mxGeometry height="20" width="40" x="120" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="0 V" vertex="1">
+          <mxGeometry height="20" width="40" x="120" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="V&lt;sub&gt;EH&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="20" width="40" x="109" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;convertToSvg=1;" value="V&lt;sub&gt;EB&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="20" width="39" x="110" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;convertToSvg=1;" value="Entrées" vertex="1">
+          <mxGeometry height="20" width="60" x="170" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="80" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#AAAAAA,#AAAAAA);" value="" vertex="1">
+          <mxGeometry height="40" width="80" x="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="160" width="80" x="320" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p68mk5svl-TLovWLRYqp-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#AAAAAA,#AAAAAA);" value="" vertex="1">
+          <mxGeometry height="60" width="80" x="320" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
